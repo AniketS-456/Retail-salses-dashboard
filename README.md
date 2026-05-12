@@ -4,11 +4,16 @@
 This Power BI dashboard analyzes retail sales performance, profit trends, customer behavior, and category-wise insights.
 
 The dashboard helps businesses understand:
-- Sales performance
-- Profit trends
-- Customer segments
-- Top products
-- Regional sales analysis
+Total Sales
+Profit
+Profit Margin
+Order Count
+Monthly Sales Trend
+Category Analysis
+State & Region Map
+Top Products
+Top Customers
+Segment-wise Sales
 
 ---
 
